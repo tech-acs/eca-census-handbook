@@ -25,3 +25,45 @@ used to describe sections of the handbook, each with an inline SVG icons, title,
 
 6) Streamlined Deployment: The application is configured and deployed leveraging GitHub Actions for continuous integration and delivery.
 
+7) How to Modify Navigation Titles in CustomHeader:
+
+   The CustomHeader component (src/components/CustomHeader.js) uses Docusaurus's <Translate> component to display navigation link labels. Each label has a unique message ID and a default English string. To change a navigation title you must update two places:
+
+   A) Change the default English title in CustomHeader.js
+      - Open src/components/CustomHeader.js and locate the navigationLinks array.
+      - Find the entry whose <Translate> id matches the title you want to change.
+
+      Example — Chapter 1 of "Experiences and Lessons":
+        Current code:
+          { path: "/docs/experiences-lessons-2020/Chapter-01/Introduction",
+            label: <Translate id="nav.experiences.chapter1">1. Project Planning and Management</Translate> }
+
+        To rename it to "1. Census Project Planning and Management", change the text between the tags:
+          { path: "/docs/experiences-lessons-2020/Chapter-01/Introduction",
+            label: <Translate id="nav.experiences.chapter1">1. Census Project Planning and Management</Translate> }
+
+      The text between the <Translate> tags is the fallback that is shown for the default (English) locale.
+      The id attribute ("nav.experiences.chapter1") is the key used to look up translations in other locales.
+
+   B) Change the French translation in i18n/fr/code.json
+      - Open i18n/fr/code.json and find the entry whose key matches the <Translate> id.
+
+      Example — the French translation for "nav.experiences.chapter1":
+        Current entry:
+          "nav.experiences.chapter1": {
+            "message": "1. Planification et gestion du projet"
+          }
+
+        To update the French title, change the "message" value:
+          "nav.experiences.chapter1": {
+            "message": "1. Planification et gestion du recensement"
+          }
+
+   Summary of steps:
+     1. In src/components/CustomHeader.js, update the text inside
+        <Translate id="nav.experiences.chapter1">...</Translate>
+        to set the English (default) title.
+     2. In i18n/fr/code.json, update the "message" value for the key
+        "nav.experiences.chapter1" to set the French title.
+     3. Repeat for other locales if additional language folders exist under i18n/.
+
