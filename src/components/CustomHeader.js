@@ -260,45 +260,7 @@ const headerStyles = `
     border-color: rgba(255, 255, 255, 0.4);
   }
   
-  /* Fix Algolia DocSearch modal positioning and visibility */
-  .DocSearch-Modal {
-    z-index: 9999 !important;
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    width: 100vw !important;
-    height: 100vh !important;
-  }
-  
-  .DocSearch-Container {
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    right: 0 !important;
-    bottom: 0 !important;
-    z-index: 9999 !important;
-  }
-  
-  .DocSearch-SearchBar {
-    background: white !important;
-  }
-  
-  .DocSearch-Input {
-    color: #1a1a1a !important;
-    background: transparent !important;
-  }
-  
-  .DocSearch-Input::placeholder {
-    color: #666 !important;
-  }
-  
-  .DocSearch-Search-Icon {
-    color: #666 !important;
-  }
-  
-  .DocSearch-Hit-title {
-    color: #1a1a1a !important;
-  }
+  /* Custom Algolia elements CSS overrides removed */
   
   .mobile-nav-item {
     position: relative;
@@ -471,7 +433,7 @@ const CustomHeader = () => {
     return false;
   };
   
-  // Initialize theme and search functionality
+  // Initialize theme
   React.useEffect(() => {
     // Initialize theme from localStorage or system preference
     const savedTheme = localStorage.getItem('theme') || 
@@ -480,26 +442,7 @@ const CustomHeader = () => {
     
     setColorMode(savedTheme);
     document.documentElement.setAttribute('data-theme', savedTheme);
-    
-    // Set up search keyboard shortcut only on docs pages
-    if (showSearchBar) {
-      const handleKeyDown = (event) => {
-        if ((event.ctrlKey || event.metaKey) && event.key === 'k') {
-          event.preventDefault();
-          console.log('Ctrl+K pressed on docs page');
-          
-          // Try to use existing SearchBar functionality
-          const searchButton = document.querySelector('.DocSearch-Button');
-          if (searchButton) {
-            searchButton.click();
-          }
-        }
-      };
-      
-      document.addEventListener('keydown', handleKeyDown);
-      return () => document.removeEventListener('keydown', handleKeyDown);
-    }
-  }, [showSearchBar]);
+  }, []);
 
   // Theme toggle function
   const toggleColorMode = () => {
