@@ -55,9 +55,6 @@ La présente section présente des études de cas du monde réel et des exemples
 * **[Chapitre 15: Approches alternatives](/docs/case-studies/Alternative%20Approaches)**  
   Exemples de méthodologies et d'approches alternatives en matière de recensement
 
-* **[Chapitre 16: Liste de contrôle relative à la planification](/docs/case-studies/Checklist%20for%20planning%20a%20digital%20Population%20and%20Housing%20Census%20in%20Africa)**  
-  Études de cas sur la planification globale du recensement
-
 ---
 
 ## Ce que vous y trouverez

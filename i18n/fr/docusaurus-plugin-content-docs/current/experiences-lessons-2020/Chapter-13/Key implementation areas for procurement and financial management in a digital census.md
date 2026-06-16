@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 2
 hide_title: true 
 title: Principaux domaines de mise en œuvre concernant la gestion des achats et des finances dans le cadre d'un recensement numérique
@@ -30,7 +30,7 @@ La réussite d'un recensement numérique en Afrique nécessite une refonte strat
 
 - La passation de contrats d'assistance technique concernant le support informatique et l'assistance technique sur le terrain afin de résoudre rapidement les problèmes matériels ou logiciels pendant le recensement est cruciale.
 
-La gestion financière d'un recensement numérique doit être agile et transparente, en tirant parti de la technologie afin de contrôler les dépenses et de garantir une utilisation efficace des ressources. Voir également la section sur la [budgétisation](/docs/experiences-lessons-2020/Chapter-01/Key%20aspects%20census%20planning%20management.md)du recensement.
+La gestion financière d'un recensement numérique doit être agile et transparente, en tirant parti de la technologie afin de contrôler les dépenses et de garantir une utilisation efficace des ressources. Voir également la section sur la [budgétisation](/docs/experiences-lessons-2020/Chapter-01/Key%20aspects%20census%20planning%20management) du recensement.
 
 - La planification financière doit tenir compte du coût total de possession de la technologie, y compris la maintenance, l'assistance et la possibilité de réutiliser les actifs concernant d'autres activités statistiques après le recensement, ce qui peut améliorer la proposition de valeur.
 
