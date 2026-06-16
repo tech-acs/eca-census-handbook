@@ -576,7 +576,7 @@ const CustomHeader = () => {
     <>
       <style>{headerStyles}</style>
       <div className="draft-ribbon">
-        <Translate id="banner.draft">Draft: Unapproved</Translate>
+        <Translate id="banner.draft">Draft</Translate>
       </div>
       <div className="custom-page-header">
         {/* Desktop Navigation */}
