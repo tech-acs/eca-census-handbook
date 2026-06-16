@@ -343,6 +343,28 @@ const headerStyles = `
       padding: 0.75rem;
     }
   }
+
+  .draft-ribbon {
+    position: fixed;
+    top: 22px;
+    right: -48px;
+    transform: rotate(45deg);
+    width: 170px;
+    background: linear-gradient(135deg, #e05e5e 0%, #c9302c 100%);
+    color: white;
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 9px;
+    text-align: center;
+    line-height: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    z-index: 10005;
+    pointer-events: none;
+    border-top: 1px solid rgba(255,255,255,0.3);
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+  }
 `;
 
 const CustomHeader = () => {
@@ -553,6 +575,9 @@ const CustomHeader = () => {
   return (
     <>
       <style>{headerStyles}</style>
+      <div className="draft-ribbon">
+        <Translate id="banner.draft">Draft</Translate>
+      </div>
       <div className="custom-page-header">
         {/* Desktop Navigation */}
         <div className={`nav-links-and-search ${showSearchBar ? 'with-search' : ''}`}>
