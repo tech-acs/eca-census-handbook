@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 4
 hide_title: true 
 title: Problèmes rencontrés et leçons tirées
@@ -27,7 +27,7 @@ title: Problèmes rencontrés et leçons tirées
 
 * Le recours à des lieux de formation gratuits est souhaitable, mais les installations publiques disponibles pour la formation sont limitées dans certaines régions d'Afrique ; ces aspects doivent faire l'objet d'une planification et d'une budgétisation appropriées.
 
-* Des problèmes de qualité des données ont été causés par une formation inadéquate et par le fait que les agents recenseurs ne comprenaient pas l'objectif des données qu'ils collectaient. À titre d'exemple, les agents recenseurs n'utilisaient pas les valeurs normalisées pour enregistrer les données « inconnues », ce qui a posé des problèmes de nettoyage des données, ou ajoutaient un nouvel enregistrement au lieu de modifier un enregistrement existant pour corriger une erreur, ce qui a entraîné des doublons (voir également [le recrutement et la formation des agents recenseurs pour l'enquête post-dénombrement](#recrutement-et-formation-des-enquêteurs)). Cette situation rend plus difficile la mise en correspondance des données avec d'autres ensembles de données, notamment les données issues des enquêtes post-dénombrement et des données administratives, et limite donc les possibilités d'utilisation ultérieure des données.
+* Des problèmes de qualité des données ont été causés par une formation inadéquate et par le fait que les agents recenseurs ne comprenaient pas l'objectif des données qu'ils collectaient. À titre d'exemple, les agents recenseurs n'utilisaient pas les valeurs normalisées pour enregistrer les données « inconnues », ce qui a posé des problèmes de nettoyage des données, ou ajoutaient un nouvel enregistrement au lieu de modifier un enregistrement existant pour corriger une erreur, ce qui a entraîné des doublons (voir également [le recrutement et la formation des agents recenseurs pour l'enquête post-dénombrement](/docs/experiences-lessons-2020/Chapter-14/Key%20implementation%20areas%20digital%20pes#recrutement-et-formation-des-enquêteurs)). Cette situation rend plus difficile la mise en correspondance des données avec d'autres ensembles de données, notamment les données issues des enquêtes post-dénombrement et des données administratives, et limite donc les possibilités d'utilisation ultérieure des données.
 
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 5
 hide_title: true
 title: Structure
@@ -9,8 +9,8 @@ title: Structure
 Ce manuel du e-recensement comporte des chapitres structurés selon le modèle de processus métier du recensement, y compris une liste de contrôle destinée à orienter le processus de planification. La liste complète des chapitres est la suivante :
 
 1.	[Planification et gestion de projet](/docs/experiences-lessons-2020/Chapter-01/Introduction)
-2.	[Cartographie géospatiale et gestion de la base de données relatives aux zones de dénombrement](/docs//docusaurus-plugin-content-docs/current/experiences-lessons-2020/Chapter-02/Introduction)
-3.	[Instruments, applications et outils de recensement](/docs/docusaurus-plugin-content-docs/current/experiences-lessons-2020/Chapter-03/Introduction)
+2.	[Cartographie géospatiale et gestion de la base de données relatives aux zones de dénombrement](/docs/experiences-lessons-2020/Chapter-02/Introduction)
+3.	[Instruments, applications et outils de recensement](/docs/experiences-lessons-2020/Chapter-03/Introduction)
 4.	[Saisie, transmission et gestion des données](/docs/experiences-lessons-2020/Chapter-04/Introduction) 
 5.	[Essais et projets pilotes de recensement](/docs/experiences-lessons-2020/Chapter-05/Introduction)
 6.	[Recrutement et formation du personnel de terrain](/docs/experiences-lessons-2020/Chapter-06/Introduction)
@@ -21,7 +21,7 @@ Ce manuel du e-recensement comporte des chapitres structurés selon le modèle d
 11.	[Partenariats et collaboration](/docs/experiences-lessons-2020/Chapter-11/Introduction)
 12.	[Sensibilisation, publicité et mobilisation des ressources](/docs/experiences-lessons-2020/Chapter-12/Introduction)
 13.	[Approvisionnement et gestion financière](/docs/experiences-lessons-2020/Chapter-13/Introduction) 
-14.	[Enquête post-dénombrement](/docs/experiences-lessons-2020/Chapter-14/Introduction.md)
+14.	[Enquête post-dénombrement](/docs/experiences-lessons-2020/Chapter-14/Introduction)
 15.	[Approches alternatives](/docs/experiences-lessons-2020/Chapter-15/Introduction)
 16.	[Liste de contrôle relative à la planification d'un recensement numérique de la population et des logements](/docs/experiences-lessons-2020/Chapter-16/Introduction)
 

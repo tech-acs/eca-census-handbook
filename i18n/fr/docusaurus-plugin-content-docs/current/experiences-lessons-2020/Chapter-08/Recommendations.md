@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 5
 hide_title: true 
 title: Recommandations
@@ -24,7 +24,7 @@ En matière de gestion logistique avant, pendant et après le recensement, il es
 
 - Afin de gérer efficacement la logistique du recensement, il convient d'établir des partenariats et une collaboration solides, tant à l'intérieur qu'à l'extérieur du pays. Au Kenya, par exemple, d'autres services gouvernementaux disposant d'une bonne infrastructure ont contribué au transport des matériels, notamment les forces de l'ordre (armée et police), qui ont assuré le transport et la sécurité. Cette collaboration peut également être maintenue lors des futurs recensements.
 
-- La constitution d'une équipe logistique dédiée est une bonne pratique, mais celle-ci doit être mise en place dès le début du cycle de planification, au moins un an avant le recensement, et participer au [recensement pilote](#essais-et-projets-pilotes-de-recensement). Les opérations au niveau infranational doivent faire l'objet d'une attention particulière en matière de dotation en personnel et de formation aux opérations logistiques.
+- La constitution d'une équipe logistique dédiée est une bonne pratique, mais celle-ci doit être mise en place dès le début du cycle de planification, au moins un an avant le recensement, et participer au [recensement pilote](/docs/experiences-lessons-2020/Chapter-05/Introduction). Les opérations au niveau infranational doivent faire l'objet d'une attention particulière en matière de dotation en personnel et de formation aux opérations logistiques.
 
 - L'idéal est de disposer d'un entrepôt séparé, prêt au moins trois mois avant le recensement. La manutention du matériel doit être informatisée et intégrée aux systèmes de planification des ressources de l'entreprise. Toutefois, afin de minimiser les coûts et en cas de planification insuffisante, l'équipe logistique doit pouvoir improviser dans la limite des ressources disponibles. À titre d'exemple, le Kenya ne disposait pas d'un espace de stockage adéquat au niveau national et a utilisé des locaux inachevés, initialement destinés à accueillir une bibliothèque au siège du KNBS, comme espace de stockage et centre d'opérations logistiques. D'autres bureaux du siège du KNBS ont également été utilisés en tant qu'entrepôts.
 

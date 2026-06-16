@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 4
 hide_title: true
 title: Problèmes rencontrés et leçons tirées
@@ -16,7 +16,7 @@ title: Problèmes rencontrés et leçons tirées
 
 - Si les informations relatives aux personnes et aux ménages (données démographiques et métadonnées) sont traitées comme deux ensembles de données distincts, veillez à ce qu'il existe un moyen simple et sans ambiguïté de regrouper ces informations, car l'appariement automatique s'appuiera sur les informations provenant des deux ensembles de données. Par exemple, attribuez un identifiant unique à chaque ménage et veillez à ce que chaque personne au sein d'un ménage soit également identifiée par cet identifiant. Cette démarche s'applique à la fois aux données du recensement et aux données de l'EPR.
 
-- S'il n'existe aucun système d'adressage permettant d'identifier les bâtiments, des autocollants peuvent être utilisés afin d'étiqueter les bâtiments recensés lors du recensement, et les informations inscrites sur les autocollants peuvent être collectées lors du recensement de l'EPR. Si les propriétaires y consentent, il est également efficace d'étiqueter les bâtiments à l'aide d'un marqueur permanent. Ainsi, le même bâtiment dans le recensement et l'EPR peut être facilement apparié avant d'apparier les personnes vivant dans les bâtiments, ce qui améliorera le taux d'appariement automatique et la précision de l'appariement. ([Voir l'étude de cas du Rwanda](#Rwanda)). Toutefois, cette méthode ne fonctionne que si :
+- S'il n'existe aucun système d'adressage permettant d'identifier les bâtiments, des autocollants peuvent être utilisés afin d'étiqueter les bâtiments recensés lors du recensement, et les informations inscrites sur les autocollants peuvent être collectées lors du recensement de l'EPR. Si les propriétaires y consentent, il est également efficace d'étiqueter les bâtiments à l'aide d'un marqueur permanent. Ainsi, le même bâtiment dans le recensement et l'EPR peut être facilement apparié avant d'apparier les personnes vivant dans les bâtiments, ce qui améliorera le taux d'appariement automatique et la précision de l'appariement. ([Voir l'étude de cas du Rwanda](/docs/case-studies/Post-Enumeration%20Survey)). Toutefois, cette méthode ne fonctionne que si :
 
   1.  les autocollants/marqueurs sont de bonne qualité et restent en place entre le recensement et le dénombrement de l'EPR ;
 

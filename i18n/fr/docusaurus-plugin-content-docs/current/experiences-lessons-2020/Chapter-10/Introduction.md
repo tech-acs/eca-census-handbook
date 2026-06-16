@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 1
 hide_title: true 
 ---
@@ -94,10 +94,7 @@ Les considérations suivantes doivent être prises en compte en vue d'une diffus
 
 - Il est souhaitable d'utiliser un langage simple et non technique, des titres et sous-titres clairs et concis, des phrases courtes ne dépassant pas 25 mots, des paragraphes compacts ne dépassant pas quatre phrases, des puces afin de faciliter la lecture du texte, un texte qui commence par les informations les plus importantes et, le cas échéant, des graphiques pour illustrer le texte.
 
-- Le choix des thèmes à diffuser et leur niveau de détail dépendent du contenu du questionnaire du recensement. La consultation des utilisateurs lors de la conception du questionnaire constitue un élément important. Voir la section « 
-
-- [[\
-  Instruments, applications et outils de recensement](#_Toc201237508)](#_Toc201237508) » . Les consultations doivent porter sur les tableaux prévus et autres résultats, ainsi que sur l'élaboration de la base de données du recensement. Les thèmes du recensement doivent répondre aux besoins des utilisateurs, en tenant compte du rapport coût-efficacité, des ressources humaines, du temps disponible et de la charge de travail des répondants. Pour des orientations détaillées sur la diffusion, consulter le document Principes et recommandations des Nations Unies, Rév. 4, par. [3.310 à 3.334](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=214).
+- Le choix des thèmes à diffuser et leur niveau de détail dépendent du contenu du questionnaire du recensement. La consultation des utilisateurs lors de la conception du questionnaire constitue un élément important. Voir la section « [Instruments, applications et outils de recensement](/docs/experiences-lessons-2020/Chapter-03/Introduction) ». Les consultations doivent porter sur les tableaux prévus et autres résultats, ainsi que sur l'élaboration de la base de données du recensement. Les thèmes du recensement doivent répondre aux besoins des utilisateurs, en tenant compte du rapport coût-efficacité, des ressources humaines, du temps disponible et de la charge de travail des répondants. Pour des orientations détaillées sur la diffusion, consulter le document Principes et recommandations des Nations Unies, Rév. 4, par. [3.310 à 3.334](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=214).
 
 Les considérations suivantes doivent être prises en compte en vue d'un archivage efficace d'un recensement numérique :
 

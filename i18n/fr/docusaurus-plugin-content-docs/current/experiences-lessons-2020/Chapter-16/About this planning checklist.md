@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 2
 hide_title: true
 title: À propos de la présente liste de contrôle relative à la planification
@@ -8,7 +8,7 @@ title: À propos de la présente liste de contrôle relative à la planification
 
 ## À propos de la présente liste de contrôle relative à la planification
 
-Une liste de contrôle de planification a donc été élaborée afin de fournir des orientations concernant le calendrier et la programmation des activités et des tâches, lors de la mise en œuvre d'un recensement numérique en Afrique. Cette liste de contrôle de planification est destinée aux agences nationales chargées de la mise en œuvre du recensement et doit être utilisée conjointement avec les [Principes et recommandations des Nations Unies relatifs aux recensements de la population et de l'habitat (P&R de l’ONU)](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf), rév. 4, ainsi qu'avec le [Manuel des Nations Unies sur la gestion des recensements de la population et de l'habitat, série 2020, rév. 2](https://unstats.un.org/unsd/publication/seriesf/series_f83rev2en.pdf). Elle devrait constituer l'un des éléments clés des processus de [planification du recensement](#_CHAPTER_TWO:_Digital) numérique.
+Une liste de contrôle de planification a donc été élaborée afin de fournir des orientations concernant le calendrier et la programmation des activités et des tâches, lors de la mise en œuvre d'un recensement numérique en Afrique. Cette liste de contrôle de planification est destinée aux agences nationales chargées de la mise en œuvre du recensement et doit être utilisée conjointement avec les [Principes et recommandations des Nations Unies relatifs aux recensements de la population et de l'habitat (P&R de l’ONU)](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf), rév. 4, ainsi qu'avec le [Manuel des Nations Unies sur la gestion des recensements de la population et de l'habitat, série 2020, rév. 2](https://unstats.un.org/unsd/publication/seriesf/series_f83rev2en.pdf). Elle devrait constituer l'un des éléments clés des processus de [planification du recensement](/docs/experiences-lessons-2020/Chapter-01/Introduction) numérique.
 
 Malgré l'existence de documents d'orientation, la planification des activités et des tâches lors du cycle 2020 a rencontré des difficultés notables, auxquelles la présente liste de contrôle vise à remédier. La liste de contrôle a été élaborée sur la base d'un examen des enseignements tirés des progrès réalisés lors du cycle 2020, tels que documentés dans le manuel relatif au recensement électronique. Voici quelques-uns des défis qui ont découlé de l'absence d'une planification systématique des tâches et du calendrier :
 

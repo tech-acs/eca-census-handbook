@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 3
 hide_title: true
 title: Élaboration et mise en œuvre d'instruments et d'outils de cartographie numérique
@@ -25,13 +25,13 @@ Il est important de hiérarchiser les caractéristiques cartographiques les plus
 
 Il est recommandé de procéder à une cartographie pilote afin de tester l'état de préparation de l'ONS à entreprendre le processus principal de cartographie. L'objectif consiste à tester la validité et la fiabilité de la méthodologie, des outils et des équipements devant être utilisés dans le processus principal de cartographie. Les résultats du pilote serviront à finaliser les outils, les instruments et la méthodologie. Le processus de cartographie pilote consiste à tester la pertinence des outils, les dispositions logistiques, l'évaluation de la charge de travail, afin de fournir une base aux ONS pour mobiliser les ressources et planifier une mise en œuvre efficace du processus en vue de garantir l'acquisition d'ensembles de données de haute qualité.
 
-Lors de la planification d'un pilote de cartographie numérique, il est important de tenir compte du terrain et du type de zones d'habitat (urbain, rural, difficile d'accès, terres arides et semi-arides) afin de permettre un test efficace des processus. Voir également la section « [Tests et pilotes de recensement](#essais-et-projets-pilotes-de-recensement) ».
+Lors de la planification d'un pilote de cartographie numérique, il est important de tenir compte du terrain et du type de zones d'habitat (urbain, rural, difficile d'accès, terres arides et semi-arides) afin de permettre un test efficace des processus. Voir également la section « [Tests et pilotes de recensement](/docs/experiences-lessons-2020/Chapter-05/Introduction) ».
 
 L'utilisation de cartes de base ou de ressources cartographiques déjà disponibles peut faciliter ce processus. La collaboration avec les autorités géospatiales du pays afin d'adopter les meilleures pratiques en matière d'outils et de méthodes peut également contribuer à réduire le coût des activités pilotes et des opérations sur le terrain sans compromettre la qualité. Lorsque de nouvelles technologies et ressources sont intégrées aux activités cartographiques, telles que l'utilisation d'images satellites, la cartographie pilote doit inclure des tests de la qualité des produits et vérifier si ceux-ci répondent aux hypothèses concernant la production de zones de dénombrement et d'autres contenus géospatiaux.
 
 ### Publicité et plaidoyer relatifs à la cartographie
 
-La publicité et le plaidoyer relatifs à la cartographie visent à faire connaître l'activité et à obtenir un appui en vue de la cartographie principale et du dénombrement du recensement. Au cours de la campagne de publicité, les ONS recherchent la collaboration, l'appui, la participation et l'appropriation des parties prenantes locales ainsi que des dirigeants locaux. Les rôles et responsabilités de l'ensemble des parties prenantes sont également établis. Voir également la section « [Plaidoyer, publicité et mobilisation des ressources](#sensibilisation-publicité-et-mobilisation-des-ressources) ».
+La publicité et le plaidoyer relatifs à la cartographie visent à faire connaître l'activité et à obtenir un appui en vue de la cartographie principale et du dénombrement du recensement. Au cours de la campagne de publicité, les ONS recherchent la collaboration, l'appui, la participation et l'appropriation des parties prenantes locales ainsi que des dirigeants locaux. Les rôles et responsabilités de l'ensemble des parties prenantes sont également établis. Voir également la section « [Plaidoyer, publicité et mobilisation des ressources](/docs/experiences-lessons-2020/Chapter-12/Introduction) ».
 
 ### Collecte de données sur le terrain en vue de la cartographie
 

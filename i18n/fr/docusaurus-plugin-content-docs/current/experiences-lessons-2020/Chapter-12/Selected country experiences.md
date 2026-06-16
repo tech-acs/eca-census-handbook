@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 3
 hide_title: true 
 title: Expériences de certains pays
@@ -9,7 +9,7 @@ title: Expériences de certains pays
 
 Le Bureau des statistiques de la **Gambie** ne disposait pas d'une unité de communication et de publicité désignée, mais il a collaboré avec la Commission nationale de la population dès le début de la planification du recensement. Il a donc utilisé les structures de gouvernance, l'expertise et les compétences techniques existantes en matière de communication.
 
-Le Bureau des statistiques du **Zimbabwe** a d'abord pensé qu'il n'avait pas besoin d'un responsable de la communication et de la publicité concernant le recensement, et cela n'a pas été pris en compte dans le plan. Toutefois, le Bureau des statistiques du Zimbabwe a tiré parti de [son partenariat et de sa collaboration](#expériences-de-certains-pays-10) avec le ministère de la Communication du gouvernement afin d'assurer une communication et une publicité efficaces autour du recensement.
+Le Bureau des statistiques du **Zimbabwe** a d'abord pensé qu'il n'avait pas besoin d'un responsable de la communication et de la publicité concernant le recensement, et cela n'a pas été pris en compte dans le plan. Toutefois, le Bureau des statistiques du Zimbabwe a tiré parti de [son partenariat et de sa collaboration](/docs/experiences-lessons-2020/Chapter-11/Introduction) avec le ministère de la Communication du gouvernement afin d'assurer une communication et une publicité efficaces autour du recensement.
 
 En **Ouganda**, une stratégie de publicité et de communication a été élaborée au moment de la planification. Cette démarche a permis de rallier diverses parties prenantes à la cause du recensement.
 

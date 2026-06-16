@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 2
 hide_title: true
 title: Principaux domaines de mise en œuvre d'un recensement numérique relatifs au déploiement et à la supervision du personnel de terrain
@@ -120,7 +120,7 @@ Les logiciels et technologies utilisés pour le suivi des agents recenseurs comp
 
 ### Rémunération du personnel de terrain
 
-L'expérience acquise lors du cycle de 2020 a mis en évidence la nécessité d'une méthode plus efficace de rémunération du personnel temporaire mobilisé pour le recensement. Compte tenu du nombre très élevé de personnes employées à titre temporaire, il est important de disposer d'un système automatisé permettant un paiement et un suivi simples des rémunérations. Les informations nécessaires aux paiements électroniques, telles que les coordonnées bancaires, doivent être collectées au moment du recrutement au moyen du [système de recrutement automatisé](#recrutement-et-formation-du-personnel-de-terrain). Il convient de garder à l'esprit que le système de paie habituellement utilisé par l'institution chargée de la mise en œuvre du recensement peut ne pas être adapté au traitement efficace du volume de paiements supplémentaires requis pour le personnel temporaire pendant le recensement. Le recours à une plateforme de paiement électronique facilite la gestion des paiements de masse attendus pendant le recensement.
+L'expérience acquise lors du cycle de 2020 a mis en évidence la nécessité d'une méthode plus efficace de rémunération du personnel temporaire mobilisé pour le recensement. Compte tenu du nombre très élevé de personnes employées à titre temporaire, il est important de disposer d'un système automatisé permettant un paiement et un suivi simples des rémunérations. Les informations nécessaires aux paiements électroniques, telles que les coordonnées bancaires, doivent être collectées au moment du recrutement au moyen du [système de recrutement automatisé](/docs/experiences-lessons-2020/Chapter-06/Introduction). Il convient de garder à l'esprit que le système de paie habituellement utilisé par l'institution chargée de la mise en œuvre du recensement peut ne pas être adapté au traitement efficace du volume de paiements supplémentaires requis pour le personnel temporaire pendant le recensement. Le recours à une plateforme de paiement électronique facilite la gestion des paiements de masse attendus pendant le recensement.
 
 
 

@@ -260,45 +260,7 @@ const headerStyles = `
     border-color: rgba(255, 255, 255, 0.4);
   }
   
-  /* Fix Algolia DocSearch modal positioning and visibility */
-  .DocSearch-Modal {
-    z-index: 9999 !important;
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    width: 100vw !important;
-    height: 100vh !important;
-  }
-  
-  .DocSearch-Container {
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    right: 0 !important;
-    bottom: 0 !important;
-    z-index: 9999 !important;
-  }
-  
-  .DocSearch-SearchBar {
-    background: white !important;
-  }
-  
-  .DocSearch-Input {
-    color: #1a1a1a !important;
-    background: transparent !important;
-  }
-  
-  .DocSearch-Input::placeholder {
-    color: #666 !important;
-  }
-  
-  .DocSearch-Search-Icon {
-    color: #666 !important;
-  }
-  
-  .DocSearch-Hit-title {
-    color: #1a1a1a !important;
-  }
+  /* Custom Algolia elements CSS overrides removed */
   
   .mobile-nav-item {
     position: relative;
@@ -471,7 +433,7 @@ const CustomHeader = () => {
     return false;
   };
   
-  // Initialize theme and search functionality
+  // Initialize theme
   React.useEffect(() => {
     // Initialize theme from localStorage or system preference
     const savedTheme = localStorage.getItem('theme') || 
@@ -480,26 +442,7 @@ const CustomHeader = () => {
     
     setColorMode(savedTheme);
     document.documentElement.setAttribute('data-theme', savedTheme);
-    
-    // Set up search keyboard shortcut only on docs pages
-    if (showSearchBar) {
-      const handleKeyDown = (event) => {
-        if ((event.ctrlKey || event.metaKey) && event.key === 'k') {
-          event.preventDefault();
-          console.log('Ctrl+K pressed on docs page');
-          
-          // Try to use existing SearchBar functionality
-          const searchButton = document.querySelector('.DocSearch-Button');
-          if (searchButton) {
-            searchButton.click();
-          }
-        }
-      };
-      
-      document.addEventListener('keydown', handleKeyDown);
-      return () => document.removeEventListener('keydown', handleKeyDown);
-    }
-  }, [showSearchBar]);
+  }, []);
 
   // Theme toggle function
   const toggleColorMode = () => {
@@ -577,22 +520,21 @@ const CustomHeader = () => {
       path: "/docs/case-studies/", 
       label: <Translate id="nav.caseStudies">Case Studies</Translate>,
       submenu: [
-        { path: "/docs/case-studies/1.%20Planning%20%26%20Management", label: <Translate id="nav.caseStudies.chapter1">1. Project Planning and Management</Translate> },
-        { path: "/docs/case-studies/2.%20Geospatial%20Mapping%20and%20EA%20Database%20Management", label: <Translate id="nav.caseStudies.chapter2">2. Geospatial Mapping</Translate> },
-        { path: "/docs/case-studies/3.%20Enumeration%20Instruments,%20Applications%20and%20Tools", label: <Translate id="nav.caseStudies.chapter3">3. Enumeration Instruments</Translate> },
-        { path: "/docs/case-studies/4.%20Data%20Capture,%20Transmission%20and%20Management", label: <Translate id="nav.caseStudies.chapter4">4. Data Capture</Translate> },
-        { path: "/docs/case-studies/5.%20Census%20Testing%20and%20Pilots", label: <Translate id="nav.caseStudies.chapter5">5. Census Testing</Translate> },
-        { path: "/docs/case-studies/6.%20Recruitment%20and%20Training%20of%20Field%20Personnel", label: <Translate id="nav.caseStudies.chapter6">6. Recruitment and Training</Translate> },
-        { path: "/docs/case-studies/7.%20Deployment%20and%20Supervision%20of%20Field%20Personnel", label: <Translate id="nav.caseStudies.chapter7">7. Deployment and Supervision</Translate> },
-        { path: "/docs/case-studies/8.%20Enumeration%20and%20Logistics", label: <Translate id="nav.caseStudies.chapter8">8. Enumeration and Logistics</Translate> },
-        { path: "/docs/case-studies/9.%20Quality%20Assurance,%20Monitoring,%20Evaluation,%20and%20Risk%20Management", label: <Translate id="nav.caseStudies.chapter9">9. Quality Assurance</Translate> },
-        { path: "/docs/case-studies/10.%20Census%20Analysis,%20Products,%20Dissemination%20and%20Archiving", label: <Translate id="nav.caseStudies.chapter10">10. Census Analysis</Translate> },
-        { path: "/docs/case-studies/11.%20Partnerships%20and%20Collaboration", label: <Translate id="nav.caseStudies.chapter11">11. Partnerships</Translate> },
-        { path: "/docs/case-studies/12.%20Advocacy,%20Publicity%20and%20Resource%20Mobilization", label: <Translate id="nav.caseStudies.chapter12">12. Advocacy</Translate> },
-        { path: "/docs/case-studies/13.%20Procurement%20and%20Financial%20Management", label: <Translate id="nav.caseStudies.chapter13">13. Procurement</Translate> },
-        { path: "/docs/case-studies/14.%20Post-Enumeration%20Survey", label: <Translate id="nav.caseStudies.chapter14">14. Post-Enumeration Survey</Translate> },
-        { path: "/docs/case-studies/15.%20Alternative%20Approaches", label: <Translate id="nav.caseStudies.chapter15">15. Alternative Approaches</Translate> },
-        { path: "/docs/case-studies/16.%20Checklist%20for%20planning%20a%20digital%20Population%20and%20Housing%20Census%20in%20Africa", label: <Translate id="nav.caseStudies.chapter16">16. Planning Checklist</Translate> }
+        { path: "/docs/case-studies/Planning%20&%20Management", label: <Translate id="nav.caseStudies.chapter1">1. Project Planning and Management</Translate> },
+        { path: "/docs/case-studies/Geospatial%20Mapping%20and%20EA%20Database%20Management", label: <Translate id="nav.caseStudies.chapter2">2. Geospatial Mapping</Translate> },
+        { path: "/docs/case-studies/Enumeration%20Instruments,%20Applications%20and%20Tools", label: <Translate id="nav.caseStudies.chapter3">3. Enumeration Instruments</Translate> },
+        { path: "/docs/case-studies/Data%20Capture,%20Transmission%20and%20Management", label: <Translate id="nav.caseStudies.chapter4">4. Data Capture</Translate> },
+        { path: "/docs/case-studies/Census%20Testing%20and%20Pilots", label: <Translate id="nav.caseStudies.chapter5">5. Census Testing</Translate> },
+        { path: "/docs/case-studies/Recruitment%20and%20Training%20of%20Field%20Personnel", label: <Translate id="nav.caseStudies.chapter6">6. Recruitment and Training</Translate> },
+        { path: "/docs/case-studies/Deployment%20and%20Supervision%20of%20Field%20Personnel", label: <Translate id="nav.caseStudies.chapter7">7. Deployment and Supervision</Translate> },
+        { path: "/docs/case-studies/Enumeration%20and%20Logistics", label: <Translate id="nav.caseStudies.chapter8">8. Enumeration and Logistics</Translate> },
+        { path: "/docs/case-studies/Quality%20Assurance,%20Monitoring,%20Evaluation,%20and%20Risk%20Management", label: <Translate id="nav.caseStudies.chapter9">9. Quality Assurance</Translate> },
+        { path: "/docs/case-studies/Census%20Analysis,%20Products,%20Dissemination%20and%20Archiving", label: <Translate id="nav.caseStudies.chapter10">10. Census Analysis</Translate> },
+        { path: "/docs/case-studies/Partnerships%20and%20Collaboration", label: <Translate id="nav.caseStudies.chapter11">11. Partnerships</Translate> },
+        { path: "/docs/case-studies/Advocacy,%20Publicity%20and%20Resource%20Mobilization", label: <Translate id="nav.caseStudies.chapter12">12. Advocacy</Translate> },
+        { path: "/docs/case-studies/Procurement%20and%20Financial%20Management", label: <Translate id="nav.caseStudies.chapter13">13. Procurement</Translate> },
+        { path: "/docs/case-studies/Post-Enumeration%20Survey", label: <Translate id="nav.caseStudies.chapter14">14. Post-Enumeration Survey</Translate> },
+        { path: "/docs/case-studies/Alternative%20Approaches", label: <Translate id="nav.caseStudies.chapter15">15. Alternative Approaches</Translate> }
       ]
     },
     { path: "/docs/recommendations/", label: <Translate id="nav.recommendations">Recommendations</Translate> },

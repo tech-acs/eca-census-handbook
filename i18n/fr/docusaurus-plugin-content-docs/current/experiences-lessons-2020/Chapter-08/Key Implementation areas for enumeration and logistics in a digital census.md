@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 2
 hide_title: true 
 title: Principaux domaines de mise en œuvre pour le dénombrement et la logistique dans le cadre d'un recensement numérique
@@ -30,7 +30,7 @@ Selon la version d'Android installée sur les appareils, d'autres méthodes de f
 
 ### Liste préalable des ménages
 
-La cartographie réalisée avant le recensement fournit le nombre de zones de dénombrement et de zones de gestion, le nombre estimé de ménages et de population, ainsi que des informations sur les zones problématiques à des fins de planification (voir [cartographie](#_CHAPTER_THREE:_Geospatial)). Juste avant la période de dénombrement, une liste des ménages peut être établie afin d'obtenir une estimation plus précise du nombre de ménages dans chaque zone de dénombrement, ce qui permet de contrôler la qualité et de mesurer la couverture. Ce répertoire préalable des ménages doit être établi immédiatement après la formation des agents recenseurs et avant le début du dénombrement. Idéalement, un agent recenseur devrait couvrir une zone de dénombrement en une journée lors de l'établissement du répertoire préalable des ménages. Ce répertoire devrait de préférence enregistrer les coordonnées GPS des ménages, le nom du chef de ménage et le nombre de membres habituels du ménage, entre autres variables.
+La cartographie réalisée avant le recensement fournit le nombre de zones de dénombrement et de zones de gestion, le nombre estimé de ménages et de population, ainsi que des informations sur les zones problématiques à des fins de planification (voir [cartographie](/docs/experiences-lessons-2020/Chapter-02/Introduction)). Juste avant la période de dénombrement, une liste des ménages peut être établie afin d'obtenir une estimation plus précise du nombre de ménages dans chaque zone de dénombrement, ce qui permet de contrôler la qualité et de mesurer la couverture. Ce répertoire préalable des ménages doit être établi immédiatement après la formation des agents recenseurs et avant le début du dénombrement. Idéalement, un agent recenseur devrait couvrir une zone de dénombrement en une journée lors de l'établissement du répertoire préalable des ménages. Ce répertoire devrait de préférence enregistrer les coordonnées GPS des ménages, le nom du chef de ménage et le nombre de membres habituels du ménage, entre autres variables.
 
 Les objectifs de l'exercice de répertoire des ménages avant le dénombrement sont les suivants :
 
@@ -66,8 +66,8 @@ Pendant la collecte des données, les éléments suivants doivent être mis en p
 
 - Une structure hiérarchique sur le terrain, le niveau central étant chargé de superviser le recensement dans l'ensemble du pays, le niveau régional se concentrant sur la préparation et la conduite de la collecte des données, et le niveau local fournissant principalement les agents recenseurs et leurs superviseurs immédiats dans leur zone opérationnelle. Le niveau local doit disposer de compétences en informatique.
 
-- Un outil de suivi en ligne en temps réel : pour un dénombrement réussi sur le terrain, il est souhaitable de transférer les données immédiatement après l'achèvement du dénombrement de chaque ménage. Cet outil peut être mis en place au niveau régional pour compléter le système national. La CEA a apporté son appui aux pays dans ce domaine grâce à des tableaux de bord de suivi sur le terrain, des outils de suivi des incidents et la mise en place de centres d'appels. Voir également la section[Déploiement et supervision du personnel de terrain](#déploiement-et-supervision-du-personnel-de-terrain).
+- Un outil de suivi en ligne en temps réel : pour un dénombrement réussi sur le terrain, il est souhaitable de transférer les données immédiatement après l'achèvement du dénombrement de chaque ménage. Cet outil peut être mis en place au niveau régional pour compléter le système national. La CEA a apporté son appui aux pays dans ce domaine grâce à des tableaux de bord de suivi sur le terrain, des outils de suivi des incidents et la mise en place de centres d'appels. Voir également la section [Déploiement et supervision du personnel de terrain](/docs/experiences-lessons-2020/Chapter-07/Introduction).
 
-- Un plan de transmission des données bien documenté afin de soutenir les efforts de dénombrement. Voir également la section [Saisie, transmission et gestion des données](#saisie-transmission-et-gestion-des-données).
+- Un plan de transmission des données bien documenté afin de soutenir les efforts de dénombrement. Voir également la section [Saisie, transmission et gestion des données](/docs/experiences-lessons-2020/Chapter-04/Introduction).
 
 

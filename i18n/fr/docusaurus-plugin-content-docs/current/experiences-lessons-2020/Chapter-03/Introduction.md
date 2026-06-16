@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 1
 hide_title: true
 ---
@@ -45,5 +45,5 @@ Il est essentiel que les responsables du recensement veillent à ce que les spé
 
 Au cours du processus d'élaboration du CAPI, les programmeurs sont tenus de maintenir un suivi rigoureux des versions des applications, en collaboration avec les spécialistes du domaine, qui doivent également conserver et étiqueter les versions de manière appropriée.
 
-[Lien vers la section des études de cas](/docs/case-studies/3.%20Enumeration%20Instruments,%20Applications%20and%20Tools)
+[Lien vers la section des études de cas](/docs/case-studies/Enumeration%20Instruments,%20Applications%20and%20Tools)
 
