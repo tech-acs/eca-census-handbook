@@ -10,7 +10,7 @@ hide_title: true
 
 **Zimbabwe** Bureau of statistics (ZIMSTAT) partnered with the government communication ministry and worked through its decentralised structure by creating a census communication and publicity committee at national level that worked with the district committees and included the political audience. This partnership was to address the challenge of lack of census communication and publicity officer. 
 
-**Gambia** Bureau of Statistics (GBoS) also leveraged partnerships to address its challenge of lack of a designated communication and publicity unit by engaging with the National Population Commission for effective census [communication and publicity](/docs/experiences-lessons-2020/Chapter-11/Introduction).
+**Gambia** Bureau of Statistics (GBoS) also leveraged partnerships to address its challenge of lack of a designated communication and publicity unit by engaging with the National Population Commission for effective census [communication and publicity](/docs/experiences-lessons-2020/Chapter-12/Selected%20country%20experiences).
 
 **Kenya** and **Tanzania** leveraged partnerships and collaboration for effective logistics management. See chapter on [enumeration and logistics](/docs/experiences-lessons-2020/Chapter-08/Introduction)
 

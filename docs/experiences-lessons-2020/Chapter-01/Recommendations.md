@@ -23,6 +23,6 @@ hide_title: true
 *   Governments should be able to mobilise and avail adequate resources for the census undertaking and ensure timely disbursement of funds to avoid delays in implementation of activities.
 *   Countries should avoid overreliance on donor funding for census activities and aim to intensify cost-effective approaches.
 *   Review other countries’ budgeting experiences, particularly around costs associated with procuring and implementing technologies. This should also include related costs such as training, licensing, and consultancy costs to supply necessary digital expertise.
-*   Countries should ensure Information Technology experts are part of the planning committees, specifically to address issues on integration of the data protection law, data security, and technological risks among others.
+*   Countries should ensure Information Technology (IT) experts are part of the planning committees, specifically to address issues on integration of the data protection law, data security, and technological risks among others.
 *   Furthermore, countries should ensure that committees have the appropriate range of skills and experience to support the delivery of a digital census, for example experience in delivering digital services.
-*   Countries should ensure information technology experts are part of the planning committees, specifically to address issues on integration of the data protection law, data security, technological risks among others.
+

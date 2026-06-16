@@ -19,7 +19,7 @@ Successfully executing a digital census in Africa requires a strategic overhaul 
 
 - Procure and establishing technical support contracts for helpdesk support and field-level technical assistance is crucial to quickly resolve hardware or software issues during enumeration.
 
-Financial management for a digital census must be agile and transparent, leveraging technology to monitor spending and ensure resources are used effectively. See also census [budgeting](/docs/experiences-lessons-2020/Chapter-01/Key%20aspects%20census%20planning%20management.md).
+Financial management for a digital census must be agile and transparent, leveraging technology to monitor spending and ensure resources are used effectively. See also census [budgeting](/docs/experiences-lessons-2020/Chapter-01/Key%20aspects%20census%20planning%20management).
 
 - Financial planning should consider the total cost of ownership of the technology, including maintenance, support, and potential for re-purposing assets for other statistical activities after the census, which can enhance the value proposition.
 

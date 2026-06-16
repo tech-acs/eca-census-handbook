@@ -4,5 +4,5 @@ hide_title: true
 ---
 
 
-[Link to checklists](/docs/checklist/checklist-01.md)
+[Link to checklists](/docs/checklist/checklist-01)
 

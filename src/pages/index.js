@@ -208,7 +208,7 @@ const HomePage = () => (
             solutions in digital censuses.
           </Translate>
         </p>
-        <a href="docs/case-studies/Chapter-01/Case%20Studies">
+        <a href="docs/case-studies">
           <Translate id="homepage.features.casestudies.cta">See Case Studies</Translate>
         </a>
       </div>
@@ -236,7 +236,7 @@ const HomePage = () => (
             censuses in the 2030 round.
           </Translate>
         </p>
-        <a href="docs/recommendations/ch1">
+        <a href="docs/recommendations">
           <Translate id="homepage.features.recommendations.cta">See Recommendations</Translate>
         </a>
       </div>
@@ -263,7 +263,7 @@ const HomePage = () => (
             projects.
           </Translate>
         </p>
-        <a href="docs/resources/ch1">
+        <a href="docs/resources">
           <Translate id="homepage.features.resources.cta">Explore Resources</Translate>
         </a>
       </div>
@@ -292,7 +292,7 @@ const HomePage = () => (
             practices are met during your census process.
           </Translate>
         </p>
-        <a href="docs/checklist/ch1">
+        <a href="docs/checklist">
           <Translate id="homepage.features.checklist.cta">See Checklist</Translate>
         </a>
       </div>

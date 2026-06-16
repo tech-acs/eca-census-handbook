@@ -1,0 +1,70 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.1. Planning & Management": {
+    "message": "1. Planification et Gestion",
+    "description": "The label for category 1. Planning & Management in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.2. Geospatial Mapping and EA Database Management": {
+    "message": "2. Cartographie Géospatiale et Gestion de la Base de Données EA",
+    "description": "The label for category 2. Geospatial Mapping and EA Database Management in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.3. Enumeration Instruments, Applications and Tools": {
+    "message": "3. Instruments, Applications et Outils de Dénombrement",
+    "description": "The label for category 3. Enumeration Instruments, Applications and Tools in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.4. Data Capture, Transmission & Management": {
+    "message": "4. Capture, Transmission et Gestion des Données",
+    "description": "The label for category 4. Data Capture, Transmission & Management in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.5. Census Testing and Pilots": {
+    "message": "5. Tests et Pilotes du Recensement",
+    "description": "The label for category 5. Census Testing and Pilots in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.6. Recruitment and Training of Field Personnel": {
+    "message": "6. Recrutement et Formation du Personnel de Terrain",
+    "description": "The label for category 6. Recruitment and Training of Field Personnel in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.7. Deployment and Supervision of Field Personnel": {
+    "message": "7. Déploiement et Supervision du Personnel de Terrain",
+    "description": "The label for category 7. Deployment and Supervision of Field Personnel in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.8. Enumeration and Logistics": {
+    "message": "8. Dénombrement et Logistique",
+    "description": "The label for category 8. Enumeration and Logistics in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.9. Quality Assurance, Monitoring, Evaluation, and Risk Management": {
+    "message": "9. Assurance Qualité, Suivi, Évaluation et Gestion des Risques",
+    "description": "The label for category 9. Quality Assurance, Monitoring, Evaluation, and Risk Management in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.10. Census Analysis, Products, Dissemination and Archiving": {
+    "message": "10. Analyse du Recensement, Produits, Diffusion et Archivage",
+    "description": "The label for category 10. Census Analysis, Products, Dissemination and Archiving in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.11. Partnerships and Collaboration": {
+    "message": "11. Partenariats et Collaboration",
+    "description": "The label for category 11. Partnerships and Collaboration in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.12. Advocacy, Publicity and Resource Mobilisation": {
+    "message": "12. Plaidoyer, Publicité et Mobilisation des Ressources",
+    "description": "The label for category 12. Advocacy, Publicity and Resource Mobilisation in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.13. Procurement and Financial Management": {
+    "message": "13. Approvisionnement et Gestion Financière",
+    "description": "The label for category 13. Procurement and Financial Management in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.14. Post-Enumeration Survey": {
+    "message": "14. Enquête Post-Énumération",
+    "description": "The label for category 14. Post-Enumeration Survey in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.15. Alternative Approaches": {
+    "message": "15. Approches Alternatives",
+    "description": "The label for category 15. Alternative Approaches in sidebar experienceslessons2020Sidebar"
+  },
+  "sidebar.experienceslessons2020Sidebar.category.16. Checklist for planning a digital Population and Housing Census in Africa": {
+    "message": "16. Liste de contrôle pour la planification d'un recensement numérique de la population et du logement en Afrique",
+    "description": "The label for category 16. Checklist for planning a digital Population and Housing Census in Africa in sidebar experienceslessons2020Sidebar"
+  }
+}

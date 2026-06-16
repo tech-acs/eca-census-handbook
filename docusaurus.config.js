@@ -49,6 +49,20 @@ const config = {
     },
   },
 
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true,
+        language: ["en", "fr"], // Supports your English and French locales
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        searchBarPosition: 'right',
+      }),
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -79,20 +93,13 @@ const config = {
         //   alt: 'My Site LogE-Census Handbook Logo',
         //   src: 'img/uneca1.png',
         // },
+        
         items: [
           {
             type: 'localeDropdown',
             position: 'right',
           },
         ],
-      },
-
-      algolia: {
-      apiKey: "6852f8e55563301cb8d05f4ef18260b1", 
-      indexName: "yonsciio",
-      appId: "0HXGAP1E79",
-      contextualSearch: false, // Ensure this is explicitly false
-      searchPagePath: false,   // Keep this for modal search results
       },
 
       prism: {

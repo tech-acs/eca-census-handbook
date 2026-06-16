@@ -55,9 +55,6 @@ This section presents real-world case studies and practical examples from Africa
 - **[Chapter 15: Alternative Approaches](/docs/case-studies/Alternative%20Approaches)**  
   Examples of alternative census methodologies and approaches
 
-- **[Chapter 16: Planning Checklist](/docs/case-studies/Checklist%20for%20planning%20a%20digital%20Population%20and%20Housing%20Census%20in%20Africa)**  
-  Case studies on comprehensive census planning
-
 ---
 
 ## What You'll Find

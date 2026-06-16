@@ -43,4 +43,4 @@ It is essential for the census managers to ensure that questionnaire specificati
 
 During the CAPI development process, programmers are required to keep clear versioning of the applications, and this should be done together with the subject matter specialists who should also keep and label the versions appropriately.
 
-[Vist the case studies section](/docs/case-studies/3.%20Enumeration%20Instruments,%20Applications%20and%20Tools)
+[Vist the case studies section](/docs/case-studies/Enumeration%20Instruments,%20Applications%20and%20Tools)

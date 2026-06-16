@@ -42,7 +42,8 @@ During planning for each phase of a digital census, the following issues should 
 *   **Capacity building -** any training required at any phase should be completed early enough so that those benefiting from the training can play an active role in census planning and operations. Different skills and resources are required for a digital census compared to a traditional paper-based census. This should also include peer-to-peer learning and collaboration between NSOs.
 *   **Use of technology** – all technological specifications to be used should be agreed in principle because they affect all phases of the census plan and should be integral to the planning process.
 *   **Contracting out** – the need to contract out some services should be an integral part of the plan, and the decisions on contracting out should inform the plan.
-*   In establishing **implementation committees**, the following considerations should be made:
+
+In establishing **implementation committees**, the following considerations should be made:
    *   The committees should have clear responsibilities and roles of providing advice on strategic or technical issues and will not only be involved in the planning and preparatory phases but also in the operational phases.
    *   The membership should have sufficient technical expertise and understanding of digital technologies to inform technological decisions.
    *   They should be created early enough to provide advice at the relevant time.

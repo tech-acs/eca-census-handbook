@@ -18,7 +18,7 @@ Financial management has evolved from managing a massive, temporary workforce an
 
 ### Considerations for procurement and financial management in a digital census
 
-Ensure fairness in the procurement process, it should be free from favoritism, self-interest or preference in judgment and give timely information that is made known simultaneously to all interested parties. The [UN P&R, Rev 4, para. 2.226 to 2.232](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=133) provides detailed guidance on procurement management, see. The procurement planning process should consider the following
+Ensure fairness in the procurement process, it should be free from favoritism, self-interest or preference in judgment and give timely information that is made known simultaneously to all interested parties. The [UN P&R, Rev 4, para. 2.226 to 2.232](https://unstats.un.org/unsd/publication/SeriesM/Series_M67Rev4en.pdf#page=133) provides detailed guidance on procurement management. The procurement planning process should consider the following:
 
 - Have logistical coordination with multiple census activities and counterparts to reduce the risk of encountering problems that may lead to additional costs and delays.
 

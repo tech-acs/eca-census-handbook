@@ -44,6 +44,11 @@ La présente section fournit une collection complète de ressources, d'outils et
 
 [National Institute of Statistics Rwanda: Thematic Report: Post Enumeration Survey](https://www.statistics.gov.rw/publication/thematic-report-post-enumeration-survey)
 
+[Pacific Community Statistics for Development Division. 2025a Documents available from 17th Pacific Statistics Methods Board meeting](https://sdd.spc.int/events/2025/11/17th-pacific-statistics-methods-board-meeting-psmb17)
+ 
+[Pacific Community Statistics for Development Division. 2025b Documents available from a sub-regional workshop on population and housing census in the Pacific](https://sdd.spc.int/events/2025/10/sub-regional-workshop-population-and-housing-censuses-pacific)
+
+
 ### 🔗 Liens vers les codes et applications
 
 [ONS-UK CROW clerical matching system](https://github.com/Data-Linkage/Clerical_Resolution_Online_Widget)
