@@ -8,6 +8,7 @@ import CustomHeader from '@site/src/components/CustomHeader'; // Import your Cus
 import Footer from '@theme/Footer';
 import LayoutProvider from '@theme/Layout/Provider';
 import {useLocation} from '@docusaurus/router'; // Import useLocation
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 import styles from './styles.module.css';
 
@@ -26,7 +27,7 @@ function LayoutWrapper(props) {
   const {pathname} = useLocation(); // Use useLocation to get pathname
 
   // Determine if it's the homepage based on the baseUrl from docusaurus.config.js
-  const isHomepage = pathname === '/eca-census-handbook/';
+  const isHomepage = pathname === useBaseUrl('/');
 
   return (
     <LayoutProvider>
@@ -56,7 +57,7 @@ function LayoutWrapper(props) {
       {!isHomepage && (
         <>
           <img
-            src="/img/un8.png" // Use absolute path from site root
+            src={useBaseUrl("/img/un8.png")} // Use base URL helper to resolve path
             alt="UN Banner"
             style={{
               width: "100%", 
