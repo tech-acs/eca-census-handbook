@@ -350,10 +350,11 @@ const CustomHeader = () => {
   const [expandedSubmenu, setExpandedSubmenu] = useState(null);
   const [colorMode, setColorMode] = useState('light');
   const location = useLocation();
-  const { i18n } = useDocusaurusContext();
+  const { siteConfig, i18n } = useDocusaurusContext();
   const currentLocale = i18n?.currentLocale || 'en';
   const defaultLocale = i18n?.defaultLocale || 'en';
   const locales = i18n?.locales || ['en'];
+  const baseUrl = siteConfig?.baseUrl || '/';
 
   const changeLocale = (newLocale) => {
     if (newLocale === currentLocale) {
@@ -365,47 +366,54 @@ const CustomHeader = () => {
     }
 
     const { pathname, search, hash } = window.location;
-    let newPath = pathname;
+    let relativePath = pathname;
+    if (baseUrl !== '/' && relativePath.startsWith(baseUrl)) {
+      relativePath = relativePath.substring(baseUrl.length - 1); // Keep leading slash
+    }
 
     // Remove current non-default locale prefix from path
     if (currentLocale !== defaultLocale) {
       const currentPrefix = `/${currentLocale}`;
-      if (newPath === currentPrefix) {
-        newPath = '/';
-      } else if (newPath.startsWith(`${currentPrefix}/`)) {
-        newPath = newPath.substring(currentPrefix.length);
+      if (relativePath === currentPrefix) {
+        relativePath = '/';
+      } else if (relativePath.startsWith(`${currentPrefix}/`)) {
+        relativePath = relativePath.substring(currentPrefix.length);
       }
     }
 
     // Add new non-default locale prefix to path
     if (newLocale !== defaultLocale) {
-      if (newPath === '/') {
-        newPath = `/${newLocale}/`;
+      if (relativePath === '/') {
+        relativePath = `/${newLocale}/`;
       } else {
-        newPath = `/${newLocale}${newPath}`;
+        relativePath = `/${newLocale}${relativePath}`;
       }
     }
 
-    window.location.href = `${newPath}${search}${hash}`;
+    // Prepend baseUrl (without double slashes)
+    const finalPath = baseUrl === '/' ? relativePath : `${baseUrl.replace(/\/$/, '')}${relativePath}`;
+    window.location.href = `${finalPath}${search}${hash}`;
   };
 
   const normalizePath = (path) => {
+    let relativePath = path;
+    if (baseUrl !== '/' && relativePath.startsWith(baseUrl)) {
+      relativePath = relativePath.substring(baseUrl.length - 1); // Keep leading slash
+    }
     if (currentLocale !== defaultLocale) {
       const prefix = `/${currentLocale}`;
-      if (path === prefix) {
+      if (relativePath === prefix) {
         return '/';
       }
-      if (path.startsWith(`${prefix}/`)) {
-        return path.substring(prefix.length);
+      if (relativePath.startsWith(`${prefix}/`)) {
+        return relativePath.substring(prefix.length);
       }
     }
-    return path;
+    return relativePath;
   };
 
   const localizePath = (path) => {
-    if (currentLocale !== defaultLocale) {
-      return path === '/' ? `/${currentLocale}/` : `/${currentLocale}${path}`;
-    }
+    // Docusaurus Link component automatically handles locale prefixing
     return path;
   };
 

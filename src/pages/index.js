@@ -1,6 +1,7 @@
 import React from "react";
 import Link from '@docusaurus/Link';
 import Translate, { translate } from '@docusaurus/Translate';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './index.module.css';
 import CustomHeader from '@site/src/components/CustomHeader'; // Import the new CustomHeader
 
@@ -107,7 +108,7 @@ const HomePage = () => (
   <>
     {/* Manually added banner for landing page */}
     <img
-      src="/img/un8.png" // Absolute path from site root
+      src={useBaseUrl("/img/un8.png")} // Use base URL helper to resolve path
       alt="UN Banner"
       style={{
         width: "100%",
